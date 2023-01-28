@@ -1,2 +1,0 @@
-bundle exec jekyll build
-rsync -avzc --exclude '_site/_site*' _site/ fwood@remote.cs.ubc.ca:~/public_html/template
