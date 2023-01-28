@@ -2,7 +2,7 @@ title: The SMRT (Sensorimotor Reading and Thinking) Reading Group
 email: n_a
 description: >- # this means to ignore newlines until "baseurl:"
    Homepage for the SMRT reading group
-baseurl: "/ubc/cs/research/pai/ssl/www/SMRT" # the subpath to your homepage, typically /~username
+baseurl: "labs/sensorimotor/SMRT" # the subpath to your homepage, typically /~username
 url: "https://www.cs.ubc.ca/labs/sensorimotor/SMRT/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: n_a
 github_username:  n_a
@@ -11,7 +11,7 @@ nav:
  - name: Home
    link: "/"
  - name: People
-   link: "/people.md"
+   link: "/people"
 # - name: Talks
 #   link: "/talks/"
  - name: Place and Time
