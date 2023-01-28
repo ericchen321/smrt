@@ -39,7 +39,7 @@ On the graphics side our focus spans multiple topics:
 * Machine Learning: NeurIPS, ICML, ICLR.
 The above list is not exhaustive and we welcome our fellow readers to suggest relevant papers from other venues. Ideally we will focus on more recent (ex. SIGGRAPH 2019) papers but there will be room for relevant, older papers. Textbook chapters are also welcome, so long as they are relevant and accessible to everyone.
 
-**Upcoming, finished and suggested papers.** You can find the schedule of upcoming papers under Section [Upcoming Papers](papers_upcoming.md). Previously discussed papers are under [Discussed Papers](papers_discussed.md). Papers suggested by group members but not discussed yet are under [Suggested Papers](papers_suggested.md).
+**Upcoming, finished and suggested papers.** You can find the schedule of upcoming papers under Section [Upcoming Papers](/papers_upcoming/). Previously discussed papers are under [Discussed Papers](/papers_discussed/). Papers suggested by group members but not discussed yet are under [Suggested Papers](/papers_suggested/).
 
 
 ## How Do We Read Papers?
