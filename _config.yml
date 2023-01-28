@@ -1,0 +1,60 @@
+title: The SMRT (Sensorimotor Reading and Thinking) Reading Group
+email: n_a
+description: >- # this means to ignore newlines until "baseurl:"
+   Homepage for the SMRT reading group
+baseurl: "/home/eric/ssl/smrt" # the subpath to your homepage, typically /~username
+url: "https://www.cs.ubc.ca/labs/sensorimotor/SMRT/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: n_a
+github_username:  n_a
+
+nav:
+ - name: Home
+   link: "/"
+ - name: People
+   link: "/people"
+# - name: Talks
+#   link: "/talks/"
+ - name: Place and Time
+   link: "/place_and_time"
+ - name: Upcoming Papers
+   link: "/papers_upcoming"
+ - name: Discussed Papers
+   link: "/papers_discussed"
+ - name: Suggested Papers
+   link: "/papers_suggested"
+ - name: Contact
+   link: "/contact"
+
+
+## don't edit below here unless you want to customize beyond
+## changing the menus
+
+markdown: kramdown
+
+theme: jekyll-faculty-theme
+
+kramdown:
+  input: GFM
+  default_lang: clojure
+  syntax_highlighter: rouge
+
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-scholar
+
+scholar:
+  style: apa
+  repository: papers
+  bibliography_template: bibliography
+  bibliography_item_attributes:
+    class: paper
+
+# this is where you put your Google analytics tracking ID should you
+# wish to use Google analytics (a good idea -- it's free)
+tracking_id: #
+
+sass:
+  style: compressed
+  sass_dir: _sass

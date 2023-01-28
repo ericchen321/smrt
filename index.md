@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+## Welcome!
+
+This is the website of SMRT (Sensorimotor Reading and Thinking), a student/faculty co-led reading group at UBC CS. To remember the acronym, think of Homer Simpson singing, ["I am so smart, I am so smart, S-M-R-T."](http://www.youtube.com/watch?v=DhrfhjLd9e4).
+
+We welcome any UBC student with some background and interest in computer graphics, machine learning, physics-based simulation, vision-based motion understanding to join our group. Very few students in the group are experts in all or any of the above topics, so please don't feel intimidated!
+
+If you are interested in joinging the reading group, please post an issue on [this Github repo]("https://github.com/ericchen321/ai4d/issues") and include your UBC email in it. And we will be in touch with you.
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  <td><img style="height: 100px" src="assets/pics/flubber.png"></td>
+  <td><img style="height: 100px" src="assets/pics/coala.png"></td>
+  <td><img style="height: 100px" src="assets/pics/man_boob.png"></td>
+  <td><img style="height: 100px" src="assets/pics/ball_cloth.png"></td>
+  <td><img style="height: 100px" src="assets/pics/plant.png"></td>
+  </tr>
+</table>
+
+---------------
+
+## What Do We Read?
+
+**Theme.** The theme of this reading group is _artificial intelligence and computer graphics_.
+On the graphics side our focus spans multiple topics:
+* Simulation and control of (non-) human characters;
+* Geometric and/or biomechanical modelling of human body, skin, muscles and other tissues;
+* Biomechanical simulation of musculoskeletal structures;
+* Novel learning-based methods for differentiable simulation;
+* Vision-based methods of human motion capture, analysis and synthesis.
+
+**Publication venues.** We get to pick papers from a multitude of publication venues since our theme is quite interdisciplinary:
+* Graphics: ACM SIGGRAPH, ToG, SCA, Eurographics;
+* Vision: ICCV, CVPR;
+* Robotics: ICRA, IROS;
+* Machine Learning: NeurIPS, ICML, ICLR.
+The above list is not exhaustive and we welcome our fellow readers to suggest relevant papers from other venues. Ideally we will focus on more recent (ex. SIGGRAPH 2019) papers but there will be room for relevant, older papers. Textbook chapters are also welcome, so long as they are relevant and accessible to everyone.
+
+**Upcoming, finished and suggested papers.** You can find the schedule of upcoming papers under Section [Upcoming Papers](papers_upcoming.md). Previously discussed papers are under [Discussed Papers](papers_discussed.md). Papers suggested by group members but not discussed yet are under [Suggested Papers](papers_suggested.md).
+
+
+## How Do We Read Papers?
+Each week someone presents a paper/tutorial, followed by discussion. For paper discussions, we structure each session around answering the following questions:
+<ul>
+    <li>Motivation and Contribution
+      <ul>
+          <li>What problem is the authors addressing? Are the authors qualified to provide an answer?</li>
+          <li>Is the problem too broad? Too narrow?</li>
+          <li>How does it relate to our topic(s) of interest?</li>
+          <li>What are the implications of these results to theory, practice
+            and/or future research in the field? </li>
+      </ul>
+    </li>
+    <li>Method
+      <ul>
+        <li>What solution is offered to the problem? How does it work?</li>
+        <li>Does the solution solve the stated problem?</li>
+        <li>How does the author justify the solution: data, logic, experience,
+          examples? Is the justification technically correct? Is it sufficient?</li>
+      </ul>
+    </li>
+    <li>Limitations
+      <ul>
+        <li>How does it compare to existing methods? </li>
+        <li>What assumptions and/or restrictions are made? Are they appropriate?</li>
+      </ul>
+    </li>
+    <li>Related Work
+      <ul>
+        <li>What alterative solutions and related work are presented?</li>
+        <li>What distinguishes other work from this one?</li>
+        <li>Are too many of the citations to the author’s own work?</li>
+        <li>Are there any citations missing?</li>
+      </ul>
+    </li>
+</ul>
+The above questions are taken from [_Reading and Reviewing Academic Articles_]("https://www.cs.ubc.ca/~mitchell/Class/CS513.2009W1/Handouts/howToReview.pdf") by Prof. Ian M Mitchell at UBC.

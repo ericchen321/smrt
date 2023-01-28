@@ -1,0 +1,10 @@
+/**
+ * Example file to override styles from the base theme.
+ * Add this file in _includes/custom-head.html and change the styles to meet
+ * your needs.
+ */
+
+/* Remove line measure. */
+.content > :not(div) {
+    max-width: 100%;
+}
