@@ -13,6 +13,6 @@ We welcome UBC students of all grade levels with relevant backgrounds (CS, ECE, 
 
 Our current student members are:
 
-- [Niloofar Khoshsiyar](https://github.com/nkhosh)
+- [Guanxiong Chen](https://www.guanxiongchen.com/) (The Tzar)
 - [Yuhao Wu](https://www.linkedin.com/in/yuhao-wu-30b691163/)
-- [Guanxiong Chen](https://www.guanxiongchen.com/)
+- [Niloofar Khoshsiyar](https://github.com/nkhosh)

@@ -6,6 +6,8 @@ permalink: /papers_suggested/
 
 ## Suggested Papers (Jan 2023 - )
 
+**If you have papers in mind, please post it on Slack first.** The reading group Tzar will compile them and post them here.
+
 #### We are More than Our Joints: Predicting how 3D Bodies Move
 * **Lead:** Niloofar Khoshsiyar
 * **Authors:** Zhang, Yan and Black, Michael J and Tang, Siyu

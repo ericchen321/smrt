@@ -10,15 +10,17 @@ We welcome any UBC student with some background and interest in computer graphic
 
 If you are interested in joinging the reading group, please post an issue on [this Github repo]("https://github.com/ericchen321/ai4d/issues") and include your UBC email in it. And we will be in touch with you.
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-  <td><img style="height: 100px" src="assets/pics/flubber.png"></td>
+  <td><img style="height: 100px" src="assets/pics/finger.jpg"></td>
   <td><img style="height: 100px" src="assets/pics/coala.png"></td>
   <td><img style="height: 100px" src="assets/pics/man_boob.png"></td>
   <td><img style="height: 100px" src="assets/pics/ball_cloth.png"></td>
   <td><img style="height: 100px" src="assets/pics/plant.png"></td>
   </tr>
-</table>
+</table> -->
+
+<img src="assets/pics/muscle_actuated.png" style="height: 150px"/> <img src="assets/pics/neuralsim.png" style="height: 150px"/> <img src="assets/pics/smpl.png" style="height: 150px"/> <img src="assets/pics/physcap.png" style="height: 150px"/> <img src="assets/pics/finger.jpg" style="height: 150px"/> 
 
 ---------------
 
@@ -36,8 +38,10 @@ On the graphics side our focus spans multiple topics:
 * Graphics: ACM SIGGRAPH, ToG, SCA, Eurographics;
 * Vision: ICCV, CVPR;
 * Robotics: ICRA, IROS;
-* Machine Learning: NeurIPS, ICML, ICLR.
-The above list is not exhaustive and we welcome our fellow readers to suggest relevant papers from other venues. Ideally we will focus on more recent (ex. SIGGRAPH 2019) papers but there will be room for relevant, older papers. Textbook chapters are also welcome, so long as they are relevant and accessible to everyone.
+* Machine Learning: NeurIPS, ICML, ICLR;
+* Biomechanics: Journal of Biomechanics.
+
+The list above is not exhaustive, and we welcome our fellow readers to suggest relevant papers from other venues. Ideally, we will focus on more recent papers (published in <=2 years) but there will be room for older but interesting papers. Textbook chapters are also welcome, so long as they are relevant and accessible to everyone.
 
 **Upcoming, finished and suggested papers.** You can find the schedule of upcoming papers under Section [Upcoming Papers](/papers_upcoming/). Previously discussed papers are under [Discussed Papers](/papers_discussed/). Papers suggested by group members but not discussed yet are under [Suggested Papers](/papers_suggested/).
 
