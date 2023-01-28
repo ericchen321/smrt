@@ -1,2 +1,2 @@
 bundle exec jekyll build
-rsync -avzc --exclude '_site/_site*' _site/ fwood@remote.cs.ubc.ca:~/public_html/template
+rsync -avzc --exclude '_site/_site*' _site/ gxchen@remote.cs.ubc.ca:/ubc/cs/research/pai/ssl/www/SMRT
