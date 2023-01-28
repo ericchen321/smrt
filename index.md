@@ -8,7 +8,7 @@ This is the website of SMRT (Sensorimotor Reading and Thinking), a student/facul
 
 We welcome any UBC student with some background and interest in computer graphics, machine learning, physics-based simulation, vision-based motion understanding to join our group. Very few students in the group are experts in all or any of the above topics, so please don't feel intimidated!
 
-If you are interested in joinging the reading group, please post an issue on [this Github repo]("https://github.com/ericchen321/ai4d/issues") and include your UBC email in it. And we will be in touch with you.
+If you are interested in joinging the reading group, please post an issue on [this Github repo](https://github.com/ericchen321/ai4d/issues) and include your UBC email in it. And we will be in touch with you.
 
 <!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
