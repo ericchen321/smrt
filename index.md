@@ -43,7 +43,7 @@ On the graphics side our focus spans multiple topics:
 
 The list above is not exhaustive, and we welcome our fellow readers to suggest relevant papers from other venues. Ideally, we will focus on more recent papers (published in <=2 years) but there will be room for older but interesting papers. Textbook chapters are also welcome, so long as they are relevant and accessible to everyone.
 
-**Upcoming, finished and suggested papers.** You can find the schedule of upcoming papers under Section [Upcoming Papers](/papers_upcoming/). Previously discussed papers are under [Discussed Papers](/papers_discussed/). Papers suggested by group members but not discussed yet are under [Suggested Papers](/papers_suggested/).
+**Upcoming, finished and suggested papers.** You can find the schedule of upcoming papers under Section [Upcoming Papers](https://www.cs.ubc.ca/labs/sensorimotor/SMRT/papers_upcoming/). Previously discussed papers are under [Discussed Papers](https://www.cs.ubc.ca/labs/sensorimotor/SMRT/papers_discussed/). Papers suggested by group members but not discussed yet are under [Suggested Papers](https://www.cs.ubc.ca/labs/sensorimotor/SMRT/papers_suggested/).
 
 
 ## How Do We Read Papers?

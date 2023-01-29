@@ -8,6 +8,16 @@ permalink: /papers_suggested/
 
 **If you have papers in mind, please post it on Slack first.** The reading group Tzar will compile them and post them here.
 
+#### Generative GaitNet
+* **Lead:** Guanxiong Chen
+* **Authors:** Jungnam Park, Sehee Min, Phil Sik Chang, Jaedong Lee, Moon Seok Park, and Jehee Lee.
+* **Venue:** SIGGRAPH 2022
+* **Reasons:**
+    * Learning-based human musculoskeletal model control
+    * Places emphasis on analyzing "anatomy" conditions + gait conditions
+* [**Paper**](https://dl.acm.org/doi/abs/10.1145/3528233.3530717)
+* [**Code**](https://github.com/namjohn10/GenerativeGaitNet) 
+
 #### We are More than Our Joints: Predicting how 3D Bodies Move
 * **Lead:** Niloofar Khoshsiyar
 * **Authors:** Zhang, Yan and Black, Michael J and Tang, Siyu
@@ -39,6 +49,7 @@ permalink: /papers_suggested/
     * Proposed the Nimble physics engine which's fully differentiable;
     * Comes with a muscle-actuated differentiable humanoid model, which's relevant to my research
 * [**Paper**](https://arxiv.org/abs/2103.16021)
+* [**Code**](https://github.com/keenon/nimblephysics)
 
 #### RedMax: Efficient & Flexible Approach for Articulated Dynamics
 * **Lead:** Guanxiong Chen
