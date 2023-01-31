@@ -10,9 +10,16 @@ Papers discussed listed in reverse chronological order.
 
 ### May 2021 -
 
-#### Reconstructing Personalized Anatomical Models for Physics-based Body Animation
+#### Reconstructing Personalized Anatomical Models for Physics-based Body Animation (2)
 * **Lead:** Guanxiong Chen
-* **Time:** Dec 16, 2022; Jan 6, 2023
+* **Time:** Jan 6, 2023
+* **Authors:** Petr Kadlecek (*), Alexandru-Eugen Ichim (*), Tiantian Liu, Jaroslav Krivanek, Ladislav Kavan
+* **Venue:** ToG 2016
+* [**Paper**](https://www.cs.utah.edu/~ladislav/kadlecek16reconstructing/kadlecek16reconstructing.html)
+
+#### Reconstructing Personalized Anatomical Models for Physics-based Body Animation (1)
+* **Lead:** Guanxiong Chen
+* **Time:** Dec 16, 2022
 * **Authors:** Petr Kadlecek (*), Alexandru-Eugen Ichim (*), Tiantian Liu, Jaroslav Krivanek, Ladislav Kavan
 * **Venue:** ToG 2016
 * [**Paper**](https://www.cs.utah.edu/~ladislav/kadlecek16reconstructing/kadlecek16reconstructing.html)
