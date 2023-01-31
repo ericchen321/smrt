@@ -6,9 +6,9 @@ layout: default
 
 This is the website of SMRT (Sensorimotor Reading and Thinking), a student/faculty co-led reading group at UBC CS. To remember the acronym, think of Homer Simpson singing, ["I am so smart, I am so smart, S-M-R-T."](http://www.youtube.com/watch?v=DhrfhjLd9e4).
 
-We welcome any UBC student with some background and interest in computer graphics, machine learning, physics-based simulation, vision-based motion understanding to join our group. Very few students in the group are experts in all or any of the above topics, so please don't feel intimidated!
+**We welcome any UBC student with some background and interest in computer graphics, machine learning, physics-based simulation, vision-based motion understanding to join our group.** Very few students in the group are experts in all or any of the above topics, so please don't feel intimidated!
 
-If you are interested in joinging the reading group, please post an issue on [this Github repo](https://github.com/ericchen321/ai4d/issues) and include your UBC email in it. And we will be in touch with you.
+If you are interested in joinging the reading group, please post an issue on [this Github repo](https://github.com/ericchen321/ai4d/issues), and include 1) your UBC email and 2) a short description of yourself (year level, major, and research focus if you are a grad student) in it. And we will be in touch with you.
 
 <!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -26,12 +26,11 @@ If you are interested in joinging the reading group, please post an issue on [th
 
 ## What Do We Read?
 
-**Theme.** The theme of this reading group is _artificial intelligence and computer graphics_.
-On the graphics side our focus spans multiple topics:
-* Simulation and control of (non-) human characters;
+**Theme.** The theme of this reading group is _digital humans: graphics and machine Learning_.
+More specifically, our focus spans multiple topics:
+* Novel learning-based methods for simulation and control of (non) human characters;
+* Novel learning-based methods for processing and simulating geometries;
 * Geometric and/or biomechanical modelling of human body, skin, muscles and other tissues;
-* Biomechanical simulation of musculoskeletal structures;
-* Novel learning-based methods for differentiable simulation;
 * Vision-based methods of human motion capture, analysis and synthesis.
 
 **Publication venues.** We get to pick papers from a multitude of publication venues since our theme is quite interdisciplinary:
@@ -53,7 +52,7 @@ Each week someone presents a paper/tutorial, followed by discussion. For paper d
       <ul>
           <li>What problem is the authors addressing? Are the authors qualified to provide an answer?</li>
           <li>Is the problem too broad? Too narrow?</li>
-          <li>How does it relate to our topic(s) of interest?</li>
+          <li>How does it relate to our topic(s) of interest, and to your own research?</li>
           <li>What are the implications of these results to theory, practice
             and/or future research in the field? </li>
       </ul>
@@ -81,4 +80,4 @@ Each week someone presents a paper/tutorial, followed by discussion. For paper d
       </ul>
     </li>
 </ul>
-The above questions are taken from [_Reading and Reviewing Academic Articles_]("https://www.cs.ubc.ca/~mitchell/Class/CS513.2009W1/Handouts/howToReview.pdf") by Prof. Ian M Mitchell at UBC.
+The above questions are adapted from [_Reading and Reviewing Academic Articles_]("https://www.cs.ubc.ca/~mitchell/Class/CS513.2009W1/Handouts/howToReview.pdf") by Prof. Ian M Mitchell at UBC.
