@@ -10,6 +10,13 @@ Papers discussed listed in reverse chronological order.
 
 ### May 2021 -
 
+#### Interactive Modelling of Volumetric Musculoskeletal Anatomy
+* **Lead:** Guanxiong Chen
+* **Time:** Feb 3, 2023
+* **Authors:** Rinat Abdrashitov, Seungbae Bang, David I.W. Levin, Karan Singh, Alec Jacobson
+* **Venue:** ToG 2021
+* [**Paper**](https://arxiv.org/abs/2106.05161)
+
 #### Reconstructing Personalized Anatomical Models for Physics-based Body Animation (2)
 * **Lead:** Guanxiong Chen
 * **Time:** Jan 6, 2023
