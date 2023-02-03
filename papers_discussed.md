@@ -1,6 +1,8 @@
 ---
-title: Discussed Papers
+title: Discussed Papers | SMRT
 layout: default
+description: >- # this means to ignore newlines until "baseurl:"
+   Discussed papers | SMRT
 permalink: /papers_discussed/
 ---
 

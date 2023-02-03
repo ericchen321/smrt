@@ -1,5 +1,8 @@
 ---
+title: Contact | SMRT
 layout: default
+description: >- # this means to ignore newlines until "baseurl:"
+   Contact | SMRT
 permalink: /contact/
 is_contact: true
 ---

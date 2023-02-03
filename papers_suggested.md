@@ -1,6 +1,8 @@
 ---
-title: Suggested Papers
+title: Suggested Papers | SMRT
 layout: default
+description: >- # this means to ignore newlines until "baseurl:"
+   Suggested papers | SMRT
 permalink: /papers_suggested/
 ---
 
@@ -16,7 +18,16 @@ permalink: /papers_suggested/
     * Learning-based human musculoskeletal model control
     * Places emphasis on analyzing "anatomy" conditions + gait conditions
 * [**Paper**](https://dl.acm.org/doi/abs/10.1145/3528233.3530717)
-* [**Code**](https://github.com/namjohn10/GenerativeGaitNet) 
+* [**Code**](https://github.com/namjohn10/GenerativeGaitNet)
+
+#### EMU: Efficient Muscle Simulation in Deformation Space
+* **Lead:** Guanxiong Chen
+* **Authors:** Vismay Modi, Lawson Fulton, Shinjiro Sueda, Alec Jacobson, David I.W. Levin
+* **Venue:** Computer Graphics Forum 2020
+* **Reasons:**
+    * Simulation techiniques adopted by "Interactive Modelling of Volumetric Musculoskeletal Anatomy" which we discussed on Feb 3, 2023
+    * Shin and David are in the author list
+* [**Paper**](https://www.dgp.toronto.edu/projects/efficient-muscles/)
 
 #### We are More than Our Joints: Predicting how 3D Bodies Move
 * **Lead:** Niloofar Khoshsiyar

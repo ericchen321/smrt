@@ -1,6 +1,8 @@
 ---
-title: Upcoming Papers
+title: Upcoming Papers | SMRT
 layout: default
+description: >- # this means to ignore newlines until "baseurl:"
+   Upcoming papers | SMRT
 permalink: /papers_upcoming/
 ---
 

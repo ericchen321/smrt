@@ -1,6 +1,8 @@
 ---
-title: Place and Time
+title: Place and Time | SMRT
 layout: default
+description: >- # this means to ignore newlines until "baseurl:"
+   Place and Time | SMRT
 permalink: /place_and_time/
 ---
 

@@ -1,6 +1,8 @@
 ---
-title: People
+title: People | SMRT
 layout: default
+description: >- # this means to ignore newlines until "baseurl:"
+   People | SMRT
 permalink: /people/
 ---
 
