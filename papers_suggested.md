@@ -10,6 +10,26 @@ permalink: /papers_suggested/
 
 **If you have papers in mind, please post it on Slack first.** The reading group Tzar will compile them and post them here.
 
+#### UnderPressure: Deep Learning for Foot Contact Detection, Ground Reaction Force Estimation and Footskate Cleanup
+* **Lead:** Guanxiong Chen
+* **Authors:** Lucas Mourot, Ludovic Hoyet, François Le Clerc, Pierre Hellier
+* **Venue:** Eurographics 2022
+* **Reasons:**
+    * Proposed a publicly available motion + pressure insoles dataset
+    * Code is also publicly available
+    * NN-based inference of GRF, which is relevant to my research
+* [**Paper**](https://arxiv.org/abs/2208.04598)
+* [**Code + Dataset**](https://github.com/InterDigitalInc/UnderPressure)
+
+#### D&D: Learning Human Dynamics from Dynamic Camera
+* **Lead:** Guanxiong Chen
+* **Authors:** Jiefeng Li, Siyuan Bian, Chao Xu, Gang Liu, Gang Yu, Cewu Lu
+* **Venue:** ECCV 2022
+* **Reasons:**
+    * Physics-aware mocap with moving camera
+* [**Paper**](https://arxiv.org/abs/2209.08790)
+* [**Code**](https://github.com/Jeff-sjtu/DnD)
+
 #### Generative GaitNet
 * **Lead:** Guanxiong Chen
 * **Authors:** Jungnam Park, Sehee Min, Phil Sik Chang, Jaedong Lee, Moon Seok Park, and Jehee Lee.
