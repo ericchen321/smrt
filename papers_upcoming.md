@@ -8,9 +8,14 @@ permalink: /papers_upcoming/
 
 ## Upcoming Papers
 
-#### Couch: towards controllable human-chair interactions
-* **Lead:** Niloofar Khoshsiyar
-* **Time:** Feb 17, 2023
-* **Authors:** Xiaohan Zhang, Bharat Lal Bhatnagar, Vladimir Guzov, Sebastian Starke, Gerard Pons-Moll
-* **Venue:** ECCV 2022
-* [**Paper**](https://arxiv.org/abs/2205.00541)
+#### UnderPressure: Deep Learning for Foot Contact Detection, Ground Reaction Force Estimation and Footskate Cleanup
+* **Lead:** Guanxiong Chen
+* **Time:** Mar 3, 2023
+* **Authors:** Lucas Mourot, Ludovic Hoyet, François Le Clerc, Pierre Hellier
+* **Venue:** Eurographics 2022
+* **Reasons:**
+    * Proposed a publicly available motion + pressure insoles dataset
+    * Code is also publicly available
+    * NN-based inference of GRF, which is relevant to my research
+* [**Paper**](https://arxiv.org/abs/2208.04598)
+* [**Code + Dataset**](https://github.com/InterDigitalInc/UnderPressure)

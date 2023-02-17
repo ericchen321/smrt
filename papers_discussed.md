@@ -12,6 +12,14 @@ Papers discussed listed in reverse chronological order.
 
 ### May 2021 -
 
+#### COUCH: towards controllable human-chair interactions / Synthesizing Physical Character-Scene Interactions
+* **Lead:** Niloofar Khoshsiyar
+* **Time:** Feb 17, 2023
+* **Authors:** Xiaohan Zhang, Bharat Lal Bhatnagar, Vladimir Guzov, Sebastian Starke, Gerard Pons-Moll / Mohamed Hassan, Yunrong Guo, Tingwu Wang, Michael Black, Sanja Fidler, Xue Bin Peng
+* **Venue:** ECCV 2022 / arXiv
+* [**Paper (COUCH)**](https://arxiv.org/abs/2205.00541)
+* [**Paper (SPCI)**](https://arxiv.org/abs/2302.00883)
+
 #### Interactive Modelling of Volumetric Musculoskeletal Anatomy
 * **Lead:** Guanxiong Chen
 * **Time:** Feb 3, 2023
@@ -22,7 +30,7 @@ Papers discussed listed in reverse chronological order.
 #### Reconstructing Personalized Anatomical Models for Physics-based Body Animation (2)
 * **Lead:** Guanxiong Chen
 * **Time:** Jan 6, 2023
-* **Authors:** Petr Kadlecek (*), Alexandru-Eugen Ichim (*), Tiantian Liu, Jaroslav Krivanek, Ladislav Kavan
+* **Authors:** Petr Kadlecek, Alexandru-Eugen Ichim, Tiantian Liu, Jaroslav Krivanek, Ladislav Kavan
 * **Venue:** ToG 2016
 * [**Paper**](https://www.cs.utah.edu/~ladislav/kadlecek16reconstructing/kadlecek16reconstructing.html)
 
