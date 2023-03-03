@@ -13,6 +13,8 @@ We welcome UBC students of all grade levels with relevant backgrounds (CS, ECE, 
 Our current members are (listed alphabetically by last name):
 
 - [Guanxiong Chen](https://www.guanxiongchen.com/) (The Tzar)
+- [Atabak Eghbal](https://www.linkedin.com/in/atabak-eghbal/)
+- [Ruiyu Gou](https://www.linkedin.com/in/ruiyu-gou/?originalSubdomain=ca)
 - [Niloofar Khoshsiyar](https://github.com/nkhosh)
 - [Dr. Dinesh Pai](https://sensorimotor.cs.ubc.ca/pai/)
 - [Dr. Chang Shu](https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/chang-shu)

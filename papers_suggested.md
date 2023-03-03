@@ -19,16 +19,6 @@ permalink: /papers_suggested/
 * [**Paper**](https://arxiv.org/abs/2209.08790)
 * [**Code**](https://github.com/Jeff-sjtu/DnD)
 
-#### Generative GaitNet
-* **Lead:** Guanxiong Chen
-* **Authors:** Jungnam Park, Sehee Min, Phil Sik Chang, Jaedong Lee, Moon Seok Park, and Jehee Lee.
-* **Venue:** SIGGRAPH 2022
-* **Reasons:**
-    * Learning-based human musculoskeletal model control
-    * Places emphasis on analyzing "anatomy" conditions + gait conditions
-* [**Paper**](https://dl.acm.org/doi/abs/10.1145/3528233.3530717)
-* [**Code**](https://github.com/namjohn10/GenerativeGaitNet)
-
 #### EMU: Efficient Muscle Simulation in Deformation Space
 * **Lead:** Guanxiong Chen
 * **Authors:** Vismay Modi, Lawson Fulton, Shinjiro Sueda, Alec Jacobson, David I.W. Levin

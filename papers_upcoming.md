@@ -8,14 +8,13 @@ permalink: /papers_upcoming/
 
 ## Upcoming Papers
 
-#### UnderPressure: Deep Learning for Foot Contact Detection, Ground Reaction Force Estimation and Footskate Cleanup
+#### Generative GaitNet
 * **Lead:** Guanxiong Chen
-* **Time:** Mar 3, 2023
-* **Authors:** Lucas Mourot, Ludovic Hoyet, François Le Clerc, Pierre Hellier
-* **Venue:** Eurographics 2022
+* **Time:** Mar 17, 2023
+* **Authors:** Jungnam Park, Sehee Min, Phil Sik Chang, Jaedong Lee, Moon Seok Park, and Jehee Lee.
+* **Venue:** SIGGRAPH 2022
 * **Reasons:**
-    * Proposed a publicly available motion + pressure insoles dataset
-    * Code is also publicly available
-    * NN-based inference of GRF, which is relevant to my research
-* [**Paper**](https://arxiv.org/abs/2208.04598)
-* [**Code + Dataset**](https://github.com/InterDigitalInc/UnderPressure)
+    * Learning-based human musculoskeletal model control
+    * Places emphasis on analyzing anatomy conditions + gait conditions
+* [**Paper**](https://dl.acm.org/doi/abs/10.1145/3528233.3530717)
+* [**Code**](https://github.com/namjohn10/GenerativeGaitNet)
