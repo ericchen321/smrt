@@ -51,16 +51,6 @@ permalink: /papers_suggested/
     * Cited many of Dinesh's papers. So I guess quite relevant?
 * [**Paper**](https://dl.acm.org/doi/10.1145/3197517.3201305)
 
-#### Fast and Feature-Complete Differentiable Physics for Articulated Rigid Bodies with Contact
-* **Lead:** Guanxiong Chen
-* **Authors:** Keenon Werling, Dalton Omens, Jeongseok Lee, Ioannis Exarchos, C. Karen Liu
-* **Venue:** Robotics: Science and Systems 2021
-* **Reasons:**
-    * Proposed the Nimble physics engine which's fully differentiable;
-    * Comes with a muscle-actuated differentiable humanoid model, which's relevant to my research
-* [**Paper**](https://arxiv.org/abs/2103.16021)
-* [**Code**](https://github.com/keenon/nimblephysics)
-
 #### RedMax: Efficient & Flexible Approach for Articulated Dynamics
 * **Lead:** Guanxiong Chen
 * **Authors:** Ying Wang, Nicholas J. Weidner, Margaret A. Baxter, Yura Hwang, Danny M. Kaufman, and Shinjiro Sueda

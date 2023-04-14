@@ -12,6 +12,17 @@ Papers discussed listed in reverse chronological order.
 
 ### May 2021 -
 
+#### Generative GaitNet
+* **Lead:** Guanxiong Chen
+* **Time:** Apr 14, 2023
+* **Authors:** Jungnam Park, Sehee Min, Phil Sik Chang, Jaedong Lee, Moon Seok Park, and Jehee Lee.
+* **Venue:** SIGGRAPH 2022
+* **Reasons:**
+    * Learning-based human musculoskeletal model control
+    * Places emphasis on analyzing anatomy conditions + gait conditions
+* [**Paper**](https://dl.acm.org/doi/abs/10.1145/3528233.3530717)
+* [**Code**](https://github.com/namjohn10/GenerativeGaitNet)
+
 #### UnderPressure: Deep Learning for Foot Contact Detection, Ground Reaction Force Estimation and Footskate Cleanup
 * **Lead:** Guanxiong Chen
 * **Time:** Mar 3, 2023

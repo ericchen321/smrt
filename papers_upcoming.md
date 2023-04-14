@@ -8,13 +8,13 @@ permalink: /papers_upcoming/
 
 ## Upcoming Papers
 
-#### Generative GaitNet
+#### Fast and Feature-Complete Differentiable Physics for Articulated Rigid Bodies with Contact
 * **Lead:** Guanxiong Chen
-* **Time:** Mar 17, 2023
-* **Authors:** Jungnam Park, Sehee Min, Phil Sik Chang, Jaedong Lee, Moon Seok Park, and Jehee Lee.
-* **Venue:** SIGGRAPH 2022
+* **Time:** Apr 28, 2023
+* **Authors:** Keenon Werling, Dalton Omens, Jeongseok Lee, Ioannis Exarchos, C. Karen Liu
+* **Venue:** Robotics: Science and Systems 2021
 * **Reasons:**
-    * Learning-based human musculoskeletal model control
-    * Places emphasis on analyzing anatomy conditions + gait conditions
-* [**Paper**](https://dl.acm.org/doi/abs/10.1145/3528233.3530717)
-* [**Code**](https://github.com/namjohn10/GenerativeGaitNet)
+    * Proposed the Nimble physics engine which's fully differentiable;
+    * Comes with a muscle-actuated differentiable humanoid model, which's relevant to my research
+* [**Paper**](https://arxiv.org/abs/2103.16021)
+* [**Code**](https://github.com/keenon/nimblephysics)
