@@ -8,10 +8,17 @@ permalink: /papers_upcoming/
 
 ## Upcoming Papers
 
-#### Fast and Feature-Complete Differentiable Physics for Articulated Rigid Bodies with Contact (2)
-* **Lead:** Guanxiong Chen
-* **Time:** May 12, 2023
-* **Authors:** Keenon Werling, Dalton Omens, Jeongseok Lee, Ioannis Exarchos, C. Karen Liu
-* **Venue:** Robotics: Science and Systems 2021
-* [**Paper**](https://arxiv.org/abs/2103.16021)
-* [**Code**](https://github.com/keenon/nimblephysics)
+#### Learning Neural Parametric Head Models
+* **Lead:** Yuhao Wu
+* **Time:** Jun 9, 2023
+* **Authors:** Simon Giebenhain, Tobias Kirschstein, Markos Georgopoulos, Martin Rünz, Lourdes Agapito, Matthias Nießner
+* **Venue:** ICCV 2021
+* [**Paper**](https://openaccess.thecvf.com/content/CVPR2023/html/Giebenhain_Learning_Neural_Parametric_Head_Models_CVPR_2023_paper.html)
+* [**Project**](https://simongiebenhain.github.io/NPHM/)
+
+#### Addressing Discontinuous Root-Finding for Subsequent Differentiability in Machine Learning, Inverse Problems, and Control
+* **Lead:** Atabak Eghbal
+* **Time:** Jun 23, 2023
+* **Authors:** Daniel Johnson, Ronald Fedkiw
+* **Venue:** Preprint (?)
+* [**Paper**](http://physbam.stanford.edu/~fedkiw/papers/stanford2023-04.pdf)
