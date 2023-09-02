@@ -10,6 +10,37 @@ permalink: /papers_suggested/
 
 **If you have papers in mind, please post it on Slack first.** The reading group Tzar will compile them and post them here.
 
+#### CROM: Continuous Reduced-Order Modeling of PDEs Using Implicit Neural Representations
+* **Proposed by:** Dinesh Pai
+* **Authors:** Peter Yichen Chen, Jinxu Xiang, Dong Heon Cho, Yue Chang, G A Pershing, Henrique Teles Maia, Maurizio M. Chiaramonte, Kevin Carlberg, Eitan Grinspun
+* **Venue:** ICLR 2023
+* [**Project**](https://crom-pde.github.io/)
+* [**OpenReview**](https://openreview.net/forum?id=FUORz1tG8Og/)
+
+#### Data-Free Learning of Reduced-Order Kinematics
+* **Proposed by:** Dinesh Pai
+* **Authors:** Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul G. Kry, David I.W. Levin, Justin Solomon
+* **Venue:** SIGGRAPH 2023
+* [**Project**](https://research.nvidia.com/labs/toronto-ai/neural-physics-subspaces/)
+
+#### Learning Neural Constitutive Laws From Motion Observations for Generalizable PDE Dynamics
+* **Proposed by:** Dinesh Pai
+* **Authors:** Pingchuan Ma, Peter Yichen Chen, Bolei Deng, Joshua B. Tenenbaum, Tao Du, Chuang Gan, Wojciech Matusik
+* **Venue:** ICML 2023
+* [**Project**](https://sites.google.com/view/nclaw)
+
+#### BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion
+* **Lead:** Niloofar Khoshsiyar
+* **Authors:** Michael J. Black, Priyanka Patel, Joachim Tesch, Jinlong Yang
+* **Venue:** CVPR 2023
+* [**Project**](https://bedlam.is.tue.mpg.de/)
+
+#### PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling
+* **Lead:** Niloofar Khoshsiyar
+* **Authors:** Zhe Li, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu
+* **Venue:** SIGGRAPH 2023
+* [**Project**](https://lizhe00.github.io/projects/posevocab/)
+
 #### D&D: Learning Human Dynamics from Dynamic Camera
 * **Lead:** Guanxiong Chen
 * **Authors:** Jiefeng Li, Siyuan Bian, Chao Xu, Gang Liu, Gang Yu, Cewu Lu
