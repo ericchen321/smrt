@@ -17,18 +17,6 @@ permalink: /papers_suggested/
 * [**Project**](https://crom-pde.github.io/)
 * [**OpenReview**](https://openreview.net/forum?id=FUORz1tG8Og/)
 
-#### Data-Free Learning of Reduced-Order Kinematics
-* **Proposed by:** Dinesh Pai
-* **Authors:** Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul G. Kry, David I.W. Levin, Justin Solomon
-* **Venue:** SIGGRAPH 2023
-* [**Project**](https://research.nvidia.com/labs/toronto-ai/neural-physics-subspaces/)
-
-#### Learning Neural Constitutive Laws From Motion Observations for Generalizable PDE Dynamics
-* **Proposed by:** Dinesh Pai
-* **Authors:** Pingchuan Ma, Peter Yichen Chen, Bolei Deng, Joshua B. Tenenbaum, Tao Du, Chuang Gan, Wojciech Matusik
-* **Venue:** ICML 2023
-* [**Project**](https://sites.google.com/view/nclaw)
-
 #### BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion
 * **Lead:** Niloofar Khoshsiyar
 * **Authors:** Michael J. Black, Priyanka Patel, Joachim Tesch, Jinlong Yang
