@@ -8,17 +8,12 @@ permalink: /papers_upcoming/
 
 ## Upcoming Papers
 
-#### Learning Neural Parametric Head Models
-* **Lead:** Yuhao Wu
-* **Time:** Jun 9, 2023
-* **Authors:** Simon Giebenhain, Tobias Kirschstein, Markos Georgopoulos, Martin Rünz, Lourdes Agapito, Matthias Nießner
-* **Venue:** ICCV 2021
-* [**Paper**](https://openaccess.thecvf.com/content/CVPR2023/html/Giebenhain_Learning_Neural_Parametric_Head_Models_CVPR_2023_paper.html)
-* [**Project**](https://simongiebenhain.github.io/NPHM/)
+#### Data-Free Learning of Reduced-Order Kinematics
+* **Lead:** Guanxiong Chen
+* **Time:** Sept 29, 2023
+* **Authors:** Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul G. Kry, David I.W. Levin, Justin Solomon
+* **Venue:** SIGGRAPH 2023
+* [**Paper**](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf)
+* [**Code**](https://github.com/nmwsharp/neural-physics-subspaces)
 
-#### Addressing Discontinuous Root-Finding for Subsequent Differentiability in Machine Learning, Inverse Problems, and Control
-* **Lead:** Atabak Eghbal
-* **Time:** Jun 23, 2023
-* **Authors:** Daniel Johnson, Ronald Fedkiw
-* **Venue:** Preprint (?)
-* [**Paper**](http://physbam.stanford.edu/~fedkiw/papers/stanford2023-04.pdf)
+

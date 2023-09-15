@@ -12,6 +12,29 @@ Papers discussed listed in reverse chronological order.
 
 ### May 2021 -
 
+#### Learning Neural Constitutive Laws from Motion Observations for Generalizable PDE Dynamics
+* **Lead:** Guanxiong Chen
+* **Time:** Sept 15, 2023
+* **Authors:** Pingchuan Ma, Peter Yichen Chen, Bolei Deng, Joshua B. Tenenbaum, Tao Du, Chuang Gan, Wojciech Matusik
+* **Venue:** ICML 2023
+* [**Paper**](https://arxiv.org/pdf/2304.14369.pdf)
+* [**Project**](https://sites.google.com/view/nclaw)
+
+#### Addressing Discontinuous Root-Finding for Subsequent Differentiability in Machine Learning, Inverse Problems, and Control
+* **Lead:** Atabak Eghbal
+* **Time:** Jun 23, 2023
+* **Authors:** Daniel Johnson, Ronald Fedkiw
+* **Venue:** Preprint (?)
+* [**Paper**](http://physbam.stanford.edu/~fedkiw/papers/stanford2023-04.pdf)
+
+#### Learning Neural Parametric Head Models
+* **Lead:** Yuhao Wu
+* **Time:** Jun 9, 2023
+* **Authors:** Simon Giebenhain, Tobias Kirschstein, Markos Georgopoulos, Martin Rünz, Lourdes Agapito, Matthias Nießner
+* **Venue:** ICCV 2021
+* [**Paper**](https://openaccess.thecvf.com/content/CVPR2023/html/Giebenhain_Learning_Neural_Parametric_Head_Models_CVPR_2023_paper.html)
+* [**Project**](https://simongiebenhain.github.io/NPHM/)
+
 #### Fast and Feature-Complete Differentiable Physics for Articulated Rigid Bodies with Contact (2)
 * **Lead:** Guanxiong Chen
 * **Time:** May 26, 2023
