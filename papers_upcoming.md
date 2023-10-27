@@ -8,12 +8,12 @@ permalink: /papers_upcoming/
 
 ## Upcoming Papers
 
-#### Data-Free Learning of Reduced-Order Kinematics (2)
+#### GroundLink: A Dataset Unifying Human Body Movement and Ground Reaction Dynamics
 * **Lead:** Guanxiong Chen
-* **Time:** Oct 27, 2023
-* **Authors:** Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul G. Kry, David I.W. Levin, Justin Solomon
-* **Venue:** SIGGRAPH 2023
-* [**Paper**](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf)
-* [**Code**](https://github.com/nmwsharp/neural-physics-subspaces)
+* **Time:** Nov 10, 2023
+* **Authors:** Xingjian Han, Benjamin Senderling, Stanley To, Deepak Kumar, Emily Whiting, Jun Saito
+* **Venue:** SIGGRAPH Asia 2023
+* [**Paper**](https://cs-people.bu.edu/xjhan/pubs/GroundLink.pdf)
+* [**Project**](https://csr.bu.edu/groundlink/)
 
 

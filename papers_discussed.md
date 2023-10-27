@@ -12,12 +12,19 @@ Papers discussed listed in reverse chronological order.
 
 ### May 2021 -
 
+#### Data-Free Learning of Reduced-Order Kinematics (2)
+* **Lead:** Guanxiong Chen
+* **Time:** Oct 27, 2023
+* **Authors:** Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul G. Kry, David I.W. Levin, Justin Solomon
+* **Venue:** SIGGRAPH 2023
+* [**Paper**](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf)
+* [**Code**](https://github.com/nmwsharp/neural-physics-subspaces)
+
 #### Disentangling the Latent Space of 3D Human Body Meshes
 * **Lead:** Yuhao Wu
 * **Time:** Oct 13, 2023
 * **Authors:** Yuhao Wu
 * **Venue:** MSc Thesis Presentation
-
 
 #### Data-Free Learning of Reduced-Order Kinematics (1)
 * **Lead:** Guanxiong Chen
@@ -26,7 +33,6 @@ Papers discussed listed in reverse chronological order.
 * **Venue:** SIGGRAPH 2023
 * [**Paper**](https://nmwsharp.com/media/papers/neural-physics-subspaces/neural_physics_subspaces.pdf)
 * [**Code**](https://github.com/nmwsharp/neural-physics-subspaces)
-
 
 #### Learning Neural Constitutive Laws from Motion Observations for Generalizable PDE Dynamics
 * **Lead:** Guanxiong Chen
