@@ -10,21 +10,6 @@ permalink: /papers_suggested/
 
 **If you have papers in mind, please post it on Slack first.** The reading group Tzar will compile them and post them here.
 
-#### Anatomically Detailed Simulation of Human Torso
-* **Proposed by:** Guanxiong Chen
-* **Lead:** Dinesh Pai
-* **Authors:** Seunghwan Lee, Yifeng Jiang, C.Karen Liu
-* **Venue:** SIGGRAPH 2023
-* **Reasons:**
-    * Interested in their modelling techniques for various tissues
-* [**Paper**](https://arxiv.org/abs/2305.04995)
-
-#### Universal Humanoid Motion Representations for Physics-Based Control
-* **Lead:** Niloofar Khoshsiyar
-* **Authors:** Zhengyi Luo, Jinkun Cao, Josh Merel, Alexander Winkler, Jing Huang, Kris Kitani, Weipeng Xu†
-* **Venue:** Arxiv
-* [**Project**](https://zhengyiluo.github.io/PULSE/)
-
 #### CROM: Continuous Reduced-Order Modeling of PDEs Using Implicit Neural Representations
 * **Proposed by:** Dinesh Pai
 * **Authors:** Peter Yichen Chen, Jinxu Xiang, Dong Heon Cho, Yue Chang, G A Pershing, Henrique Teles Maia, Maurizio M. Chiaramonte, Kevin Carlberg, Eitan Grinspun
