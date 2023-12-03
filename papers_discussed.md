@@ -12,6 +12,20 @@ Papers discussed listed in reverse chronological order.
 
 ### May 2021 -
 
+#### Data-Driven Approach to Simulating Realistic Human Joint Constraints
+* **Lead:** Guanxiong Chen
+* **Time:** Dec 1, 2023
+* **Authors:** Yifeng Jiang, C. Karen Liu
+* **Venue:** ICRA 2018
+* [**Paper**](https://arxiv.org/abs/1709.08685)
+
+#### Anatomically Detailed Simulation of Human Torso
+* **Lead:** Dinesh Pai
+* **Time:** Nov 17, 2023
+* **Authors:** Seunghwan Lee, Yifeng Jiang, C.Karen Liu
+* **Venue:** SIGGRAPH 2023
+* [**Paper**](https://arxiv.org/abs/2305.04995)
+
 #### Data-Free Learning of Reduced-Order Kinematics (2)
 * **Lead:** Guanxiong Chen
 * **Time:** Oct 27, 2023

@@ -18,4 +18,5 @@ Our current members are (listed alphabetically by last name):
 - [Niloofar Khoshsiyar](https://github.com/nkhosh)
 - [Dr. Dinesh Pai](https://sensorimotor.cs.ubc.ca/pai/)
 - [Dr. Chang Shu](https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/chang-shu)
+- [Shashwat Suri](https://www.linkedin.com/in/shashwat-suri-88807a13b/)
 - [Yuhao Wu](https://www.linkedin.com/in/yuhao-wu-30b691163/)
